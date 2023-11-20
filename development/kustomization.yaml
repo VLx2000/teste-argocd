@@ -1,0 +1,7 @@
+---
+bases:
+- ../base
+
+patchesStrategicMerge:
+  - patches/svc.yaml
+  - patches/pod.yaml
